@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a8ad8ed986d96f3dd120c004d52f0209b5c125b0129557741fd658e625637489"
+build_start_time: [1717757475, 389260053]
+build_end_time: [1717757475, 453341007]
+inputs:
+  "/Users/msc_india/Desktop/Maps/My_Current_Location/My_Current_Location/AppDelegate.swift": !private [1717754923, 114018440]
+  "/Users/msc_india/Desktop/Maps/My_Current_Location/My_Current_Location/SceneDelegate.swift": !private [1717754923, 126363754]
+  "/Users/msc_india/Desktop/Maps/My_Current_Location/My_Current_Location/ViewController.swift": !private [1717757468, 827468395]
